@@ -12,20 +12,23 @@
 
 | Category          | Score    |
 | ----------------- | -------- |
-| **Setup**         | ... / 10 |
-| **Execution**     | ... / 20 |
-| **Documentation** | ... / 10 |
-| **Presentation**  | ... / 30 |
-| **Total**         | ... / 70 |
+| **Setup**         | 10 / 10 |
+| **Execution**     | 20 / 20 |
+| **Documentation** | 10 / 10 |
+| **Presentation**  | 30 / 30 |
+| **Total**         | 30 / 70 |
 
 ### Reflection
 <!-- Edit the following section with your reflection -->
 
 #### What went well?
+I would say most things went well. The data cleaning (for the most part) and visualizing did. So did the machine learning and pipelines.
 #### What did not go well?
+I had a little trouble data cleaning two data frames. I also had trouble pulling in some data, which I explained in the video.
 #### What did you learn?
+How to flow everything I learned together into a single piece of work. It helps cement my learning by pulling it all together.
 #### What would you do differently next time?
-
+I would pick a different data set insetad of the LiveAPI dataset which would only let me pull data from one golf course in the dataset. Besides that I wouldn't do anything different.
 ---
 
 ## Getting Started
